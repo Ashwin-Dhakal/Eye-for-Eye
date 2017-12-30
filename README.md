@@ -1,5 +1,5 @@
-# Eye-for-Eye-Eye-donating-windows-mobile-application
-## here are the screenshots of the App - "Eye for Eye"
+
+## Here are the screenshots of the App - "Eye for Eye"
 
 ![about us](https://user-images.githubusercontent.com/24986485/34453808-3754b062-ed85-11e7-8b63-22a8318cf657.PNG)
 ![conference alert](https://user-images.githubusercontent.com/24986485/34453809-378ba89c-ed85-11e7-818d-5df0fad8f717.PNG)
