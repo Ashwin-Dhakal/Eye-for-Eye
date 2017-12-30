@@ -1,0 +1,36 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Eye_for_Eye.Receiver"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,-2,0,0" TextWrapping="Wrap" Text="Receiver" VerticalAlignment="Top" Height="63" Width="418" FontSize="48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,59,0,0" TextWrapping="Wrap" Text="Please fill the form below:" VerticalAlignment="Top" Height="33" Width="418"/>
+        <TextBox HorizontalAlignment="Left" Height="59" Margin="0,80,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="371" InputScope="Text" FontSize="15"/>
+        <TextBox HorizontalAlignment="Left" Height="59" Margin="0,127,0,0" TextWrapping="Wrap" Text="Address"  FontSize="15" VerticalAlignment="Top" Width="371"/>
+        <TextBox HorizontalAlignment="Left" Height="59" Margin="0,175,0,0" TextWrapping="Wrap" Text="Email" FontSize="15" VerticalAlignment="Top" Width="371"/>
+        <TextBox HorizontalAlignment="Left" Height="59" Margin="0,259,0,0" TextWrapping="Wrap" Text="Contact No" FontSize="15" VerticalAlignment="Top" Width="371"/>
+        <TextBox HorizontalAlignment="Left" Height="59" Margin="0,306,0,0" TextWrapping="Wrap" Text="Blood Group" FontSize="15" VerticalAlignment="Top" Width="371"/>
+        <TextBox HorizontalAlignment="Right" Height="59" Margin="0,354,109,0" TextWrapping="Wrap" Text="Education" FontSize="15" VerticalAlignment="Top" Width="371"/>
+        <TextBox HorizontalAlignment="Left" Height="59"  Margin="0,401,0,0" TextWrapping="Wrap" Text="Occupation" FontSize="15" VerticalAlignment="Top" Width="371"/>
+        <TextBox HorizontalAlignment="Left" Height="59" Margin="0,447,0,0" TextWrapping="Wrap" FontSize="15" Text="Date of Birth (mm/dd/yy)" VerticalAlignment="Top" Width="371"/>
+        <TextBlock HorizontalAlignment="Left" Margin="15,567,0,0" TextWrapping="Wrap" Text="Gender" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="59" Margin="0,494,0,0" FontSize="15" TextWrapping="Wrap" Text="Registration No" VerticalAlignment="Top" Width="371"/>
+        <RadioButton Content="Male" FontSize="16" HorizontalAlignment="Left" Margin="89,545,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Female" HorizontalAlignment="Left" FontSize="16" Margin="216,546,0,0" VerticalAlignment="Top" Height="71" Width="171"/>
+        <CheckBox Content="I hereby agree that all the information provided is correct." FontSize="16" HorizontalAlignment="Left" Margin="0,610,0,0" VerticalAlignment="Top"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="340,694,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="60,233,0,0" FontSize="16" TextWrapping="Wrap" Text="You will get e-Eye Received (PLEDGE) card on this email." VerticalAlignment="Top" Width="412" Height="41"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

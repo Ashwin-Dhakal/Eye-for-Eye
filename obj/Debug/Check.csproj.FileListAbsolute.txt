@@ -1,0 +1,29 @@
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\App.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Eyebanks.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\FAQ.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Inquiry.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\MainPage.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Donatenow.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Receiver.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Eye for Eye.g.resources
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Eye_for_Eye.Resources.AppResources.resources
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Check.csproj.GenerateResource.Cache
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Eye for Eye.dll
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\ApplicationIcon.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Eye for Eye.dll
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Eye for Eye.pdb
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\AppManifest.xaml
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Properties\WMAppManifest.xml
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Eye_for_Eye_Debug_AnyCPU.xap
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Eye for Eye.pdb
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\XapCacheFile.xml
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Check.csprojResolveAssemblyReference.cache
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Partners.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Alert.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Aboutus.g.cs

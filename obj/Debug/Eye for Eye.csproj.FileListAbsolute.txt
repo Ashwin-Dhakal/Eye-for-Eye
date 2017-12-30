@@ -1,0 +1,62 @@
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\ApplicationIcon.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Eye for Eye.dll
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Eye for Eye.pdb
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\AppManifest.xaml
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Properties\WMAppManifest.xml
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Eye_for_Eye_Debug_AnyCPU.xap
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\App.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\MainPage.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Eye for Eye.g.resources
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Eye_for_Eye.Resources.AppResources.resources
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Eye for Eye.csproj.GenerateResource.Cache
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Eye for Eye.dll
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Eye for Eye.pdb
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\XapCacheFile.xml
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Eyebanks.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\FAQ.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Inquiry.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Donatenow.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Receiver.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\EYE for EYE.csprojResolveAssemblyReference.cache
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Alert.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Aboutus.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Menupage.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Partners.g.cs
+F:\project 1st\Eye for Eye\Eye for Eye\obj\Debug\Submit.g.cs
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\Assets\ApplicationIcon.png
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\Eye for Eye.dll
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\Eye for Eye.pdb
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\AppManifest.xaml
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\Properties\WMAppManifest.xml
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\Eye_for_Eye_Debug_AnyCPU.xap
+E:\MIC\visual studio\Eye for Eye\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\MIC\visual studio\Eye for Eye\obj\Debug\EYE for EYE.csprojResolveAssemblyReference.cache
+E:\MIC\visual studio\Eye for Eye\obj\Debug\App.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Alert.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Aboutus.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Eyebanks.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\FAQ.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Inquiry.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Mainpage.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Menupage.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Donatenow.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Partners.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Receiver.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Submit.g.cs
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Eye for Eye.g.resources
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Eye_for_Eye.Resources.AppResources.resources
+E:\MIC\visual studio\Eye for Eye\obj\Debug\EYE for EYE.csproj.GenerateResource.Cache
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Eye for Eye.dll
+E:\MIC\visual studio\Eye for Eye\obj\Debug\Eye for Eye.pdb
+E:\MIC\visual studio\Eye for Eye\obj\Debug\XapCacheFile.xml

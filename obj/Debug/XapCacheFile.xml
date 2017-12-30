@@ -1,0 +1,13 @@
+﻿<xapCache source="E:\MIC\visual studio\Eye for Eye\Bin\Debug\Eye_for_Eye_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="8/1/2015 12:00:44 PM">
+  <file source="E:\MIC\visual studio\Eye for Eye\obj\Debug\Eye for Eye.dll" archivePath="Eye for Eye.dll" lastWriteTime="8/1/2015 12:00:40 PM" />
+  <file source="E:\MIC\visual studio\Eye for Eye\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="7/31/2015 1:40:06 PM" />
+  <file source="E:\MIC\visual studio\Eye for Eye\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="7/31/2015 1:40:06 PM" />
+  <file source="E:\MIC\visual studio\Eye for Eye\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="7/31/2015 1:40:06 PM" />
+  <file source="E:\MIC\visual studio\Eye for Eye\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="7/31/2015 1:40:06 PM" />
+  <file source="E:\MIC\visual studio\Eye for Eye\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="7/31/2015 1:40:06 PM" />
+  <file source="E:\MIC\visual studio\Eye for Eye\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/31/2015 10:25:08 PM" />
+  <file source="E:\MIC\visual studio\Eye for Eye\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="7/31/2015 1:40:06 PM" />
+  <file source="E:\MIC\visual studio\Eye for Eye\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="7/31/2015 1:40:06 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="1/1/2013 6:57:00 PM" />
+  <file source="E:\MIC\visual studio\Eye for Eye\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/31/2015 1:40:12 PM" />
+</xapCache>

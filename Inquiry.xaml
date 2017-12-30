@@ -1,0 +1,24 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Eye_for_Eye.Inquiry"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,-2,0,0" TextWrapping="Wrap" Text="Send Us Inquiry" VerticalAlignment="Top" Height="63" Width="418" FontSize="48"/>
+        <TextBox x:Name="textBoxEmail" HorizontalAlignment="Left"  Height="291" Margin="0,168,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="470"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Height="72" Margin="291,493,0,0" VerticalAlignment="Top" Width="179" Click="Button_Click"/>
+        <TextBlock FontSize="24" HorizontalAlignment="Left" Margin="10,103,0,0" TextWrapping="Wrap" Text="We appreciate your Enthusiasm" VerticalAlignment="Top" Height="65" Width="364"/>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>
